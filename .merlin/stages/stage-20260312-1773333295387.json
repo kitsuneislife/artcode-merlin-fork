@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-03-12T16:36:14.224Z",
+  "stage_id": "stage-20260312-1773333295387",
+  "target_crate": "interpreter",
+  "change_type": "fix",
+  "rationale": "A última falha ocorreu devido a problemas de qualidade, mas a maioria dos experimentos recentes foi bem-sucedida. A aplicação de uma correção (fix) em um pequeno escopo (baixo risco) pode resolver o problema sem introduzir mais riscos."
+}

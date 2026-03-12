@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-03-12T17:14:25.423Z",
+  "stage_id": "stage-20260312-1773335600352",
+  "target_crate": "interpreter",
+  "change_type": "refactor",
+  "rationale": "O último experimento de stage apresentou um aumento significativo no clippy_exit, portanto, uma refatoração local e de baixo risco pode ajudar a estabilizar essa métrica."
+}

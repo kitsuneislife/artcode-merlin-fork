@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-03-12T15:56:50.359Z",
+  "stage_id": "stage-20260312-1773330945928",
+  "target_crate": "interpreter",
+  "change_type": "refactor",
+  "rationale": "A última tentativa de refactor no crate interpreter falhou devido a gates de qualidade, mas foi com risco baixo. Vamos tentar novamente com um escopo pequeno para minimizar o risco."
+}
